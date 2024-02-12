@@ -1,16 +1,25 @@
-### Hi there 👋
+ ## Oi, eu sou o Miguel e esse é o meu perfil!
 
-<!--
-**Miguelito0o/Miguelito0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Atualmente cursando o 3º semestre do Ensino Médio Integrado ao Técnico em Informática no IFCE
+- 👨‍💻 Pronomes: ele/dele
+- 🏐 Amante de vôlei💕
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##  
+Conhecimento básico em:
+<div>
+  
+  <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</div>
+
+##
+<div>
+  <a href="https://www.instagram.com/_miguel.ds_/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</div>
+                    
