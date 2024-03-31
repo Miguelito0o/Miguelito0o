@@ -3,7 +3,8 @@
 - 📚 Studant of Federal Institute of Education, Science and Technology of Ceará, Brazil
 - 🏡 Born in Fortaleza, Ceará 
 - 🌱 Beginner Programmer
-  
+- 🏐 Let's play volleyball!
+- 🎶 Lana del Rey 
 ##  
 Learning:
 <div>
