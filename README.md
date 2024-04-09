@@ -1,4 +1,6 @@
- # Hey, Miguel here! Welcome to my github perfil ;)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C218B1&height=125&section=header"/>
+
+# Hey, Miguel here! Welcome to my github perfil ;)
 
 - 📚 Studant of Federal Institute of Education, Science and Technology of Ceará, Brazil
 - 🏡 Born in Fortaleza, Ceará 
